@@ -8,4 +8,3 @@ else if (a<b) {
 	console.log("Hello, Helga");
 }
 
-
